@@ -69,14 +69,17 @@ RAZORPAY_KEY_SECRET=your_secret
 ## 🌐 API Usage
 
 Test APIs using tools like:
+- Postman  
+- Thunder Client  
 
-Postman
-Thunder Client
-📘 Example Endpoints
-POST /api/auth/register → Register user
-POST /api/auth/login → Login user
-GET /api/products → Get products
-POST /api/order → Create order
+---
+
+## 📘 Example Endpoints
+
+- `POST /api/auth/register` → Register user  
+- `POST /api/auth/login` → Login user  
+- `GET /api/products` → Get products  
+- `POST /api/order` → Create order  
 
 ---
 
