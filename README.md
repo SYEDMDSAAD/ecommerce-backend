@@ -58,11 +58,11 @@ npm start
 
 Create a .env file and add:
 
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-RAZORPAY_KEY_ID=your_key
-RAZORPAY_KEY_SECRET=your_secret
+- PORT=5000
+- MONGO_URI=your_mongodb_connection
+- JWT_SECRET=your_secret_key
+- RAZORPAY_KEY_ID=your_key
+- RAZORPAY_KEY_SECRET=your_secret
 
 ---
 
